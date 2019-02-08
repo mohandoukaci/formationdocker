@@ -1,2 +1,2 @@
 # formationdocker
-formation docker onepoint
+formation docker onepoint .
